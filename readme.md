@@ -1,6 +1,7 @@
 # Seminarios Backend
 
 ## Nodejs. Express.js. MySql
+### Proyecto Seminarios: backend hecho para proyecto de gestión de pacientes
 
 ## Requisitos
 
